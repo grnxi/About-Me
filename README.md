@@ -30,7 +30,8 @@
 
 <center>
 
-## Supported Operting Systems
+### Supported Operting Systems
+
  <p align="center">
     <a><img alt="MacOs" src="https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple&logoColor=white"></a>
     <a><img alt="ubuntu" src="https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu"></a>
@@ -38,7 +39,7 @@
     <a><img alt="SUSE" src="https://img.shields.io/badge/-Suse-black?style=flat-square&logo=Suse&logoColor=green"></a>
  </p>
 
-## Supported Integrations
+### Supported Integrations
 
 <p align="center">
     <a><img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker&logoColor=white"></a>
@@ -46,12 +47,10 @@
     <a><img alt="Rancher" src="https://img.shields.io/badge/-Rancher-black?style=flat-square&logo=rancher"></a>
 </p>
 
-## Deployment Options
+### ßDeployment Options
 
  <p align="center"> 
     <a><img alt="Helm" src="https://img.shields.io/badge/-Helm-black?style=flat-square&logo=helm&logoColor=blue">
     <a><img alt="Terraform" src="https://img.shields.io/badge/-terraform-black?style=flat-square&logo=terraform"></a>
     <a><img alt="Ansible" src="https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=Ansible"></a>
  </p>
-
-ß
