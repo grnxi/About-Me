@@ -28,9 +28,10 @@
 
 <br/>
 
-<center>
 
-Supported Operting Systemsß
+<h3 align="center">
+Supported Operting Systems
+</h3>
 
  <p align="center">
     <a><img alt="MacOs" src="https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple&logoColor=white"></a>
@@ -38,17 +39,17 @@ Supported Operting Systemsß
     <a><img alt="Flatcar" src="https://img.shields.io/badge/-Flatcar Linux-black?style=flat-square&logo=redhat&logoColor=red"></a>
     <a><img alt="SUSE" src="https://img.shields.io/badge/-Suse-black?style=flat-square&logo=Suse&logoColor=green"></a>
  </p>
-
+<h3 align="center">
 Supported Integrations
-
+</h3>
 <p align="center">
     <a><img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker&logoColor=white"></a>
     <a><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=blue"></a>
     <a><img alt="Rancher" src="https://img.shields.io/badge/-Rancher-black?style=flat-square&logo=rancher"></a>
 </p>
-
+<h3 align="center">
 Deployment Options
-
+</h3>
  <p align="center"> 
     <a><img alt="Helm" src="https://img.shields.io/badge/-Helm-black?style=flat-square&logo=helm&logoColor=blue">
     <a><img alt="Terraform" src="https://img.shields.io/badge/-terraform-black?style=flat-square&logo=terraform"></a>
