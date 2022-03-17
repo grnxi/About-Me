@@ -30,7 +30,7 @@
 
 <center>
 
-### Supported Operting Systems
+Supported Operting Systemsß
 
  <p align="center">
     <a><img alt="MacOs" src="https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=apple&logoColor=white"></a>
@@ -39,7 +39,7 @@
     <a><img alt="SUSE" src="https://img.shields.io/badge/-Suse-black?style=flat-square&logo=Suse&logoColor=green"></a>
  </p>
 
-### Supported Integrations
+Supported Integrations
 
 <p align="center">
     <a><img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker&logoColor=white"></a>
@@ -47,7 +47,7 @@
     <a><img alt="Rancher" src="https://img.shields.io/badge/-Rancher-black?style=flat-square&logo=rancher"></a>
 </p>
 
-### ßDeployment Options
+Deployment Options
 
  <p align="center"> 
     <a><img alt="Helm" src="https://img.shields.io/badge/-Helm-black?style=flat-square&logo=helm&logoColor=blue">
